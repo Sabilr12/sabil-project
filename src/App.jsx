@@ -19,7 +19,7 @@ const Forgot = React.lazy(() => import("./pages/auth/Forgot"));
 const LandingPage = React.lazy(() => import("./components/guest/LandingPage"));
 const Dashboard = React.lazy(() => import("./pages/Dashboard"));
 const Order = React.lazy(() => import("./pages/Order"));
-const Customers = React.lazy(() => import("./pages/customer"));
+const Customers = React.lazy(() => import("./pages/Customer"));
 const Users = React.lazy(() => import("./pages/Users"));
 const Loading = React.lazy(() => import("./components/Loading"));
 
