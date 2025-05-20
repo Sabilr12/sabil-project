@@ -22,7 +22,7 @@ export default function Sidebar() {
           Sedap<b className="text-hijau">.</b>
         </span>
         <span className="font-semibold text-gray-400">
-          Modern Admin Dashboard
+          Future Admin Dashboard
         </span>
       </div>
 
