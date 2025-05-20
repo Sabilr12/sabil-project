@@ -1,0 +1,73 @@
+ [
+    {
+      "id": "C001",
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "phone": "081234567890",
+      "loyalty": "Gold"
+    },
+    {
+      "id": "C002",
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "phone": "081234567891",
+      "loyalty": "Silver"
+    },
+    {
+      "id": "C003",
+      "name": "Charlie Lee",
+      "email": "charlie@example.com",
+      "phone": "081234567892",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": "C004",
+      "name": "Dina Wati",
+      "email": "dina@example.com",
+      "phone": "081234567893",
+      "loyalty": "Silver"
+    },
+    {
+      "id": "C005",
+      "name": "Eka Prasetyo",
+      "email": "eka@example.com",
+      "phone": "081234567894",
+      "loyalty": "Gold"
+    },
+    {
+      "id": "C006",
+      "name": "Fahmi Rizky",
+      "email": "fahmi@example.com",
+      "phone": "081234567895",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": "C007",
+      "name": "Gina Amelia",
+      "email": "gina@example.com",
+      "phone": "081234567896",
+      "loyalty": "Gold"
+    },
+    {
+      "id": "C008",
+      "name": "Herman Yusuf",
+      "email": "herman@example.com",
+      "phone": "081234567897",
+      "loyalty": "Silver"
+    },
+    {
+      "id": "C009",
+      "name": "Irfan Malik",
+      "email": "irfan@example.com",
+      "phone": "081234567898",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": "C010",
+      "name": "Jessica Putri",
+      "email": "jessica@example.com",
+      "phone": "081234567899",
+      "loyalty": "Gold"
+    }
+  ]
+  

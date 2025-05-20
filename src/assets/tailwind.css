@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('/fonts/Barlow-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-ExtraBold.ttf');
+}
+@theme{
+    --font-barlow: "Barlow", sans-serif;
+    --font-poppins: "Poppins", sans-serif;
+    --font-poppins-extrabold: "Poppins", sans-serif;
+    --color-latar: #C67C4E;
+    --color-teks: #f9f2ed; 
+    --color-teks-samping: #6b7280;
+    --color-garis: #e5e7eb; 
+    --color-hijau: #00B074; 
+    --color-merah: #ef4444; 
+    --color-biru: #3b82f6;
+    --color-kuning: #f59e0b; 
+    --color-titik: #313131; 
+    --color-pink: #EDD6C8;
+
+
+    
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.social-icons a,
+.contact-info a,
+.nav-links a,
+.user-options a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.user-options {
+    display: flex;
+    align-items: center;
+}
+
+.user-options .login-register {
+    background-color: green;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: green;
+}

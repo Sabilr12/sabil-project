@@ -1,0 +1,73 @@
+[
+    {
+      "id": "O001",
+      "customerName": "Alice Johnson",
+      "status": "Completed",
+      "totalPrice": 150,
+      "orderDate": "2025-04-20"
+    },
+    {
+      "id": "O002",
+      "customerName": "Bob Smith",
+      "status": "Pending",
+      "totalPrice": 200,
+      "orderDate": "2025-04-21"
+    },
+    {
+      "id": "O003",
+      "customerName": "Charlie Lee",
+      "status": "Completed",
+      "totalPrice": 120,
+      "orderDate": "2025-04-22"
+    },
+    {
+      "id": "O004",
+      "customerName": "Dina Wati",
+      "status": "Cancelled",
+      "totalPrice": 90,
+      "orderDate": "2025-04-23"
+    },
+    {
+      "id": "O005",
+      "customerName": "Eka Prasetyo",
+      "status": "Pending",
+      "totalPrice": 250,
+      "orderDate": "2025-04-24"
+    },
+    {
+      "id": "O006",
+      "customerName": "Fahmi Rizky",
+      "status": "Completed",
+      "totalPrice": 180,
+      "orderDate": "2025-04-25"
+    },
+    {
+      "id": "O007",
+      "customerName": "Gina Amelia",
+      "status": "Cancelled",
+      "totalPrice": 160,
+      "orderDate": "2025-04-26"
+    },
+    {
+      "id": "O008",
+      "customerName": "Herman Yusuf",
+      "status": "Pending",
+      "totalPrice": 130,
+      "orderDate": "2025-04-27"
+    },
+    {
+      "id": "O009",
+      "customerName": "Irfan Malik",
+      "status": "Completed",
+      "totalPrice": 220,
+      "orderDate": "2025-04-28"
+    },
+    {
+      "id": "O010",
+      "customerName": "Jessica Putri",
+      "status": "Pending",
+      "totalPrice": 300,
+      "orderDate": "2025-04-29"
+    }
+  ]
+  

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Banana",
+    "price": "$15.00",
+    "image": "/img/b1.jpg",
+    "rating": 5
+  },
+  {
+    "name": "Olive",
+    "price": "$20.00",
+    "image": "/img/o1.png",
+    "rating": 5
+  },
+  {
+    "name": "Eggs",
+    "price": "$50.00",
+    "image": "/img/e1.jpg",
+    "rating": 5
+  },
+  {
+    "name": "Tomatoes",
+    "price": "$60.00",
+    "image": "/img/t1.jpg",
+    "rating": 5
+  }
+]
