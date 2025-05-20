@@ -17,7 +17,7 @@ const Forgot = React.lazy(() => import("./pages/auth/Forgot"));
 // Halaman lainnya
 const LandingPage = React.lazy(() => import("./components/guest/LandingPage"));
 const Dashboard = React.lazy(() => import("./pages/Dashboard"));
-const Orders = React.lazy(() => import("./pages/order"));
+const Order = React.lazy(() => import("./pages/order"));
 const Customers = React.lazy(() => import("./pages/customer"));
 const Users = React.lazy(() => import("./pages/Users"));
 const Loading = React.lazy(() => import("./components/Loading"));
@@ -39,7 +39,7 @@ function App() {
         {/* Routing untuk Main Layout */}
         <Route element={<MainLayout />}>
           <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/orders" element={<Orders />} />
+          <Route path="/orders" element={<Order />} />
           <Route path="/customers" element={<Customers />} />
           <Route path="/users" element={<Users />} />
         </Route>
