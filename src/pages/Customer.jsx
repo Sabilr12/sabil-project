@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import customersData from "../json/customers.json";
+import customersData from "../JSON/customers.json";
 
 const CustomerPage = () => {
   const [customers, setCustomers] = useState(customersData);

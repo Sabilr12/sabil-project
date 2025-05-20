@@ -1,7 +1,7 @@
 import React from "react";
 import { FaStar } from "react-icons/fa";
-import products from "../../json/product.json";
-import testimonials from "../../json/testimonials.json";
+import products from "../../JSON/product.json";
+import testimonials from "../../JSON/testimonials.json";
 
 const ProdukUnggulan = () => {
   return (

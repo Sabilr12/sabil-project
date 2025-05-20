@@ -1,6 +1,6 @@
 // src/pages/OrderPage.jsx
 import React, { useState } from "react";
-import orders from "../json/orders.json"; // Pastikan jalur ini sesuai dengan struktur folder kamu
+import orders from "../JSON/orders.json"; // Pastikan jalur ini sesuai dengan struktur folder kamu
 
 const OrderPage = () => {
   const [searchTerm, setSearchTerm] = useState("");
