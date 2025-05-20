@@ -2,6 +2,7 @@ import React, { Suspense } from "react";
 import "./assets/tailwind.css";
 import { Routes, Route } from "react-router-dom";
 
+
 // Layout dan Halaman
 const AuthLayout = React.lazy(() => import("./layouts/AuthLayout"));
 const MainLayout = React.lazy(() => import("./layouts/MainLayout"));
@@ -17,7 +18,7 @@ const Forgot = React.lazy(() => import("./pages/auth/Forgot"));
 // Halaman lainnya
 const LandingPage = React.lazy(() => import("./components/guest/LandingPage"));
 const Dashboard = React.lazy(() => import("./pages/Dashboard"));
-const Order = React.lazy(() => import("./pages/order"));
+const Order = React.lazy(() => import("./pages/Order"));
 const Customers = React.lazy(() => import("./pages/customer"));
 const Users = React.lazy(() => import("./pages/Users"));
 const Loading = React.lazy(() => import("./components/Loading"));
