@@ -33,9 +33,11 @@ export default function Sidebar() {
           <ListMenu to="/orders" icon={AiOutlineShoppingCart} text="Orders" menuClass={menuClass} />
           <ListMenu to="/customers" icon={BsFillPeopleFill} text="Customers" menuClass={menuClass} />
           <ListMenu to="/users" icon={AiOutlineUserAdd } text="Users" menuClass={menuClass} />
+         <ListMenu to="/products" icon={AiOutlineUserAdd } text="Products" menuClass={menuClass} />
           <ListMenu to="/error/400" icon={MdReportProblem} text="Error 400" menuClass={menuClass} />
           <ListMenu to="/error/401" icon={MdLockOutline} text="Error 401" menuClass={menuClass} />
           <ListMenu to="/error/403" icon={MdBlock} text="Error 403" menuClass={menuClass} />
+
 
         </ul>
       </div>
