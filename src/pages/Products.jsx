@@ -92,7 +92,7 @@ export default function Products() {
           ) : (
             <tr>
               <td colSpan="5" className="px-6 py-4 text-center text-gray-600">
-                No products available
+                No products availables
               </td>
             </tr>
           )}
